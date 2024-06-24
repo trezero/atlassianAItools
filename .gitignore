@@ -5,8 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
+*.jsonl
+*.json
+*.md
 
 # Distribution / packaging
+confluencePages/
+output/
 .Python
 build/
 develop-eggs/
